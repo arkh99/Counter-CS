@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkN6YrWMgBRj9tsLg/1urlw9V3ldcvvaYUqs0t60cFQWWQSCKwF+Sygog8HcH+G0Uk0jMdUN1ctjgWlEGDAp/Q==",
+  "dgSpecHash": "VaEvRIVT/JsSIugV4U/5pm7JJNxL0IJ3+rpcaDiH/X0mf2lWSB7hBHkdBGF/5cxXRJU6EonKcY9v2AfmQ/6IHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arkh9\\Desktop\\Counter\\Counter.csproj",
+  "projectFilePath": "C:\\Users\\arkh9\\Counter-CS\\Counter\\Counter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

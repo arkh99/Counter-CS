@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wQ9hy0i7I5jdKyoNv9NfjQ96p7cMBdB95o+EczBExGo=",
+  "Hash": "nqoK9vp7V4nL/AaiDerkOSEZKNx0Hi9RyPVdSfg3+rY=",
   "Source": "Counter",
   "BasePath": "_content/Counter",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Counter\\wwwroot",
       "Source": "Counter",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\",
       "BasePath": "_content/Counter",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\arkh9\\Desktop\\Counter\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Counter.styles.css",
+      "Identity": "C:\\Users\\arkh9\\Counter-CS\\Counter\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Counter.styles.css",
       "SourceId": "Counter",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Counter",
       "RelativePath": "Counter.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\arkh9\\Desktop\\Counter\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Counter.styles.css"
+      "OriginalItemSpec": "C:\\Users\\arkh9\\Counter-CS\\Counter\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Counter.styles.css"
     },
     {
-      "Identity": "C:\\Users\\arkh9\\Desktop\\Counter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Counter.bundle.scp.css",
+      "Identity": "C:\\Users\\arkh9\\Counter-CS\\Counter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Counter.bundle.scp.css",
       "SourceId": "Counter",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Counter",
       "RelativePath": "Counter.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\arkh9\\Desktop\\Counter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Counter.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\arkh9\\Counter-CS\\Counter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Counter.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\app.css",
       "SourceId": "Counter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\",
       "BasePath": "_content/Counter",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Counter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\",
       "BasePath": "_content/Counter",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Counter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\",
       "BasePath": "_content/Counter",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\favicon.png",
       "SourceId": "Counter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\arkh9\\Desktop\\Counter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arkh9\\Counter-CS\\Counter\\wwwroot\\",
       "BasePath": "_content/Counter",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
