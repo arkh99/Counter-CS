@@ -1,7 +1,22 @@
 ﻿@page "/"
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Hello!</h1>
 
-Welcome to your new app.
+<h2>Total count : @totalCount</h2>
+
+<button @onclick="IncrementTotalCount">Increase Total count</button>
+
+<Counter Title="Counter 1" OnClick="IncrementTotalCount" />
+<Counter Title="Counter 2" OnClick="IncrementTotalCount" />
+
+
+@code {
+    private int totalCount = 0;
+
+    private void IncrementTotalCount () {
+        totalCount++;
+    }
+}

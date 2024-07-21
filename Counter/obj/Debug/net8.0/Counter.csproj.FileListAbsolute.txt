@@ -27,6 +27,12 @@ C:\Users\arkh9\Desktop\Counter\obj\Debug\net8.0\refint\Counter.dll
 C:\Users\arkh9\Desktop\Counter\obj\Debug\net8.0\Counter.pdb
 C:\Users\arkh9\Desktop\Counter\obj\Debug\net8.0\Counter.genruntimeconfig.cache
 C:\Users\arkh9\Desktop\Counter\obj\Debug\net8.0\ref\Counter.dll
+C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.sourcelink.json
 C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\appsettings.json
 C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\Counter.staticwebassets.runtime.json
@@ -35,12 +41,6 @@ C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\Counter.deps.json
 C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\Counter.runtimeconfig.json
 C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\Counter.dll
 C:\Users\arkh9\Counter-CS\Counter\bin\Debug\net8.0\Counter.pdb
-C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
-C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
-C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
-C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\Counter.sourcelink.json
 C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\arkh9\Counter-CS\Counter\obj\Debug\net8.0\staticwebassets\msbuild.Counter.Microsoft.AspNetCore.StaticWebAssets.props
